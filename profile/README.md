@@ -3,6 +3,7 @@
 Design and engineering for the mythicalOS family.
 
 **[mythicalos.ai](https://mythicalos.ai)** — something is being forged.
+**[Join the waitlist](https://app.mythicalos.ai)** to hear the day the first products land.
 
 Most of the work here is not public yet. What is:
 
